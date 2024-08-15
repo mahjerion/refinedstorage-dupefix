@@ -5,9 +5,14 @@
     "icon": "bi-house-fill"
   },
   {
-    "title": "What's new",
-    "ref": "whats-new.adoc",
-    "icon": "bi-lightbulb-fill"
+    "title": "News",
+    "ref": "news/index.adoc",
+    "icon": "bi bi-newspaper"
+  },
+  {
+    "title": "Release notes",
+    "ref": "release-notes.adoc",
+    "icon": "bi bi-file-earmark-text"
   },
   {
     "title": "Getting started",
