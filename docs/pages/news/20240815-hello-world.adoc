@@ -1,6 +1,0 @@
-= Hello World
-:type: article
-:description: Just setting the news page up.
-:date: 2024-08-15
-
-How are you doing?
