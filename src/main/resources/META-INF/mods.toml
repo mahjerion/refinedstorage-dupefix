@@ -4,7 +4,7 @@ issueTrackerURL = "https://github.com/refinedmods/refinedstorage"
 license="MIT"
 [[mods]]
 modId = "refinedstorage"
-version = "1.12.1"
+version = "1.12.5"
 displayName = "Refined Storage Dupe Fixed"
 displayURL = "https://refinedmods.com/refined-storage"
 logoFile = "logo.png"
